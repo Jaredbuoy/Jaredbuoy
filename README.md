@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jaredbuoy
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on up and coming blockchain projects
+- 🌱 I’m currently learning pythton
 - 📫 How to reach me @jaredbuoy (twitter) / jaredbohlmann@gmail.com
 
 <!---
